@@ -8,7 +8,7 @@ PreData
 .RData
 .RData?
 .Rhistory
-#.ipynb_*
+.ipynb_*
 Jupyter*/Git*.*
 *.zip
 *.hdf5
