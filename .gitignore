@@ -10,7 +10,7 @@ PreData
 .Rhistory
 .ipynb_*
 Jupyter*/Git*.*
-GitCommon.*
+GitCommon.ipynb*
 *.zip
 *.hdf5
 *.pyc
