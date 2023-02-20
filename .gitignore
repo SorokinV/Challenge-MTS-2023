@@ -1,0 +1,16 @@
+Temp
+Work
+Result
+#Data-Keras
+Data-XGB
+PreData
+.Rproj.user
+.RData
+.RData?
+.Rhistory
+#.ipynb_*
+Jupyter*/Git*.*
+*.zip
+*.hdf5
+*.pyc
+
