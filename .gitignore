@@ -4,13 +4,14 @@ Result
 #Data-Keras
 Data-XGB
 PreData
+.ipynb_checkpoints
 .Rproj.user
 .RData
 .RData?
 .Rhistory
 .ipynb_*
 Jupyter*/Git*.*
-./GitCommon.ipynb
+GitCommon.ipynb
 .gitignore
 *.zip
 *.hdf5
