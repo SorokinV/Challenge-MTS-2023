@@ -16,4 +16,4 @@ GitCommon.ipynb
 *.zip
 *.hdf5
 *.pyc
-
+*.npy
